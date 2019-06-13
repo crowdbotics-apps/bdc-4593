@@ -1,0 +1,3 @@
+rootProject.name = 'bdc_4593'
+
+include ':app'
